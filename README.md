@@ -36,10 +36,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananth-kash&theme=tokyonight" height="165px"/>
 </p>  
 
-### 🔥 Most Used Languages  
-<p>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananth-kash&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>  
+
 
 ---
 
