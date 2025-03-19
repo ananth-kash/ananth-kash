@@ -12,7 +12,6 @@
 - 🌱 Exploring **fine-tuning, vector databases, and AI deployment**  
 - 🛠️ Building **LLM-powered applications**  
 - 🧠 Love chatting about **AI, embeddings, and neural networks**  
-- 📫 Reach me at **[your email or LinkedIn]**  
 - ⚡ Fun fact: **Umm, I don't really know ?** 😆  
 
 ---
