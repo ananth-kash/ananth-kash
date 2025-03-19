@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Ananth Kash  
+# 👋 Hey there! I'm Ananth Kashyap  
 
 ### 🚀 Exploring LLMs, RAG, and Generative AI  
 
@@ -7,12 +7,13 @@
 ---
 
 ## 👨‍💻 About Me  
+- 🎓 **Currently studying Computer Science at PES University, Bengaluru**  
 - 🔭 Working on **LLMs, RAG, and Generative AI**  
 - 🌱 Exploring **fine-tuning, vector databases, and AI deployment**  
 - 🛠️ Building **LLM-powered applications**  
 - 🧠 Love chatting about **AI, embeddings, and neural networks**  
 - 📫 Reach me at **[your email or LinkedIn]**  
-- ⚡ Fun fact: **AI might write poetry, but can it make good dad jokes?** 😆  
+- ⚡ Fun fact: **Umm, I don't really know ?** 😆  
 
 ---
 
@@ -24,7 +25,7 @@
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vector%20Databases-2C4F7C?style=for-the-badge&logo=milvus&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>  
 
 ---
